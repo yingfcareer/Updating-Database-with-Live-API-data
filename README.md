@@ -1,5 +1,5 @@
 # Updating-Database-with-Live-API-data
-A python project that updates SQL database using live API data written with Google Colaboratory(an enhanced version of Jupyter Notebook)
+A python project that updates SQL database using live API data written with Google Colaboratory(a cloud version of Jupyter Notebook)
 
 This framework represents a classic data cycle and is achieved 100% in a cloud and open-source environment.
 
